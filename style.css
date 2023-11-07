@@ -1,0 +1,126 @@
+.hd{
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    border: 3px solid purple;
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding: 5px;
+}
+header{
+    text-align: center;
+}
+
+/* H3 DI BAWAH  */
+.cr{
+    text-align: center;
+    margin-top: 10%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(image/346f86386b8075d184aea35872937e6c.jpg);
+    padding: 10px;
+    border-radius: 10px;
+}
+.pg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-image: url(image/24abde5efb7b418eb76b71b425160694.jpg);
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+}
+.pg h1:hover{
+    color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pg1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 10%;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(image/1d7b026e1e8f8292bc8420555a488be9.jpg);
+    color: white;
+    border-radius: 15px;
+}
+
+/* BAGIAN TABLE UNDUHAN */
+.tr p, .tr1 p, .tr2 p{
+    background-color: purple;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 10px;
+    padding: 10px;
+}
+.tr button, .tr1 button, .tr2 button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: gold;
+    border-radius: 5px;
+}
+.tr button:hover, .tr1 button:hover, .tr2 button:hover{
+    background-color: black;
+    color: white;
+}
+.tr{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.tr1{
+    margin-bottom: 5%;
+}
+
+/* BAGIAN FOOTER */
+footer{
+    text-align: center;
+    margin-top: 5%;
+    background-image: url(image/7f5ea9ece4ca308fb5ff199396675182.jpg);
+    padding: 10px;
+    color: white;
+}
+.ig{
+    text-align: center;
+    padding: 10px;
+    margin-top: 5%;
+    margin-right: 25%;
+    margin-bottom: 0%;
+    margin-left: 25%;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ig a{
+    text-decoration: none;
+    background-color: white;
+    padding: 1px;
+    border-radius: 3px;
+    margin-top: 5%;
+}
+.ig a:hover{
+    background-color: black;
+    color: gold;
+}
+.ig img{
+    width: 10%;
+    height: 10%;
+    margin-bottom: 3%;
+}
+.jam {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5%;
+}
+.jam span{
+    background-color: purple;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
